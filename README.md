@@ -1,1 +1,1 @@
-Berilgan .txtdagi matnni JSON formatiga fayl uchun dastur kodlari!
+Program codes to convert the text in the given .txt file to JSON format!
