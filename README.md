@@ -1,2 +1,1 @@
-# TxtToJson
-Python codes to convert text from a given .txt file to JSON format!
+Berilgan .txtdagi matnni JSON formatiga fayl uchun dastur kodlari!
